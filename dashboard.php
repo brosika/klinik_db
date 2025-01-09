@@ -85,7 +85,7 @@ if (!isset($_SESSION['user_id'])) {
     <a href="logout.php">Logout</a>
 </nav>
 <div class="image-section">
-    <img src="gambar.jpg" alt="Gambar Klinik">
+    <img src="gambar2.webp" alt="Gambar Klinik">
 </div>
 
 </body>
